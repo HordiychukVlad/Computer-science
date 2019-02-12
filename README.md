@@ -1,2 +1,2 @@
 # Computer-science
-This repository is for my code 
+This repository is for my JS training 
