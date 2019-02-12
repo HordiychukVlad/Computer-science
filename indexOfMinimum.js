@@ -1,7 +1,7 @@
 var indexOfMinimum = function(array) {
     let minIndex=0;
     let minValue=array[0];
-    for(let i=1; i<array.length-1;i++)
+    for(let i=1; i<array.length;i++)
     {
      if(array[minIndex]>array[i])
      {
